@@ -147,7 +147,7 @@ def main(uid):
                 'cspoint': admin.cspoint
             })
 
-    result['Owners'] = ['Tanhung11231']
+    result['Owners'] = ['@8GRAFIXxAURA']
     return jsonify(result)
 
 if __name__ == "__main__":
